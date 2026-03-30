@@ -16,9 +16,3 @@ This is a **web-based quiz project** built using **HTML, CSS, and JavaScript**. 
 - Built entirely with HTML, CSS, and JavaScript  
 
 ---
-quiz-project/
-│
-├─ index.html       # Main HTML file
-├─ style.css        # Styles for the quiz
-├─ script.js        # JavaScript logic
-└─ README.md        # Project documentation
